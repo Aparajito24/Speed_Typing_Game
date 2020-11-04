@@ -7,4 +7,3 @@ I loved The concept and thought oof organizing this in my Technical fest Of our 
 THANKS FOR VIEWING THIS PROJECT.
 HAPPY CODING!!
 
-**PUT "main.js" in a folder named "js"**
